@@ -1,23 +1,3 @@
-Perfect bro — here is a **fully upgraded, professional, advanced README** with:
-
-✅ Badges
-✅ Features table
-✅ Screenshots section
-✅ GIF placeholder
-✅ Tech architecture diagram (ASCII)
-✅ Installation + Deployment
-✅ Roadmap
-✅ Credits
-✅ Everything formatted beautifully for GitHub
-
-⚠️ **You only need to add your screenshot in `/public/screenshot.png`**
-(or I can generate a screenshot for you if you give me the live link screenshot).
-
----
-
-# 🔥 **ADVANCED README.md (Copy–Paste Entire File)**
-
-```markdown
 # 🎰 Mega Raffle Picker  
 A modern, animated raffle picker built using **Next.js (App Router)**, **Tailwind CSS**, **ShadCN UI**, and **Canvas Confetti**.  
 Paste your participant names → click **Pick Winner** → enjoy smooth animations + confetti! 🎉
